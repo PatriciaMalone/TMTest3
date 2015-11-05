@@ -1,4 +1,4 @@
-//Test2 change in h
+
 #pragma once
 
 class CPropertiesToolBar : public CMFCToolBar
