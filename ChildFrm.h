@@ -1,4 +1,4 @@
-
+//Final change for v1.0.0 release
 // ChildFrm.h : interface of the CChildFrame class
 //
 
