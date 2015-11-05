@@ -1,4 +1,4 @@
-
+//Issue 07
 #include "stdafx.h"
 
 #include "OutputWnd.h"
