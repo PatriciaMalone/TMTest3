@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 //Issue 07
-=======
 //Issue 999
->>>>>>> develop
 #include "stdafx.h"
 
 #include "OutputWnd.h"
