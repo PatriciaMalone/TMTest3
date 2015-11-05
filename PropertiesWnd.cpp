@@ -1,4 +1,4 @@
-
+//Test2 change in cpp
 #include "stdafx.h"
 
 #include "PropertiesWnd.h"
