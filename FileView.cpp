@@ -1,4 +1,5 @@
 // a history
+//A change
 #include "stdafx.h"
 #include "mainfrm.h"
 #include "FileView.h"
