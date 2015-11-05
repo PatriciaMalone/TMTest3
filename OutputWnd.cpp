@@ -1,4 +1,4 @@
-
+//Issue 999
 #include "stdafx.h"
 
 #include "OutputWnd.h"
