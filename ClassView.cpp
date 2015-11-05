@@ -1,4 +1,5 @@
 //changes for issue 3
+//Change for issue 5
 #include "stdafx.h"
 #include "MainFrm.h"
 #include "ClassView.h"
