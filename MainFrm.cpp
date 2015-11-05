@@ -1,6 +1,7 @@
 
 // MainFrm.cpp : implementation of the CMainFrame class
 //
+//Change for issue 6
 
 #include "stdafx.h"
 #include "TMTest3.h"
