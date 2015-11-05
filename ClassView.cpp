@@ -1,6 +1,4 @@
 //changes for issue 3
-//changing classview but will revert the commit
-
 #include "stdafx.h"
 #include "MainFrm.h"
 #include "ClassView.h"
