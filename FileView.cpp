@@ -19,6 +19,8 @@ CFileView::CFileView()
 {
 }
 
+//hsdhfjhsdfsd
+
 CFileView::~CFileView()
 {
 }
