@@ -1,4 +1,4 @@
-//
+//test test
 #pragma once
 
 class CPropertiesToolBar : public CMFCToolBar
