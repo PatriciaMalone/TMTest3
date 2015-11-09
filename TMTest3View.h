@@ -4,7 +4,7 @@
 
 #pragma once
 
-
+//test 2
 class CTMTest3View : public CView
 {
 protected: // create from serialization only

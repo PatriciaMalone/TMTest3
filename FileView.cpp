@@ -19,9 +19,13 @@ CFileView::CFileView()
 {
 }
 
+//hsdhfjhsdfsd
+
 CFileView::~CFileView()
 {
 }
+
+//Blah 
 
 BEGIN_MESSAGE_MAP(CFileView, CDockablePane)
 	ON_WM_CREATE()
