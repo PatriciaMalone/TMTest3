@@ -53,6 +53,7 @@ protected:
 	afx_msg void OnSettingChange(UINT uFlags, LPCTSTR lpszSection);
 
 	DECLARE_MESSAGE_MAP()
+	//fff
 
 	void InitPropList();
 	void SetPropListFont();
