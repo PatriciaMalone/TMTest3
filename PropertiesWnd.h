@@ -1,4 +1,4 @@
-//
+//test test test
 #pragma once
 
 class CPropertiesToolBar : public CMFCToolBar
@@ -53,6 +53,7 @@ protected:
 	afx_msg void OnSettingChange(UINT uFlags, LPCTSTR lpszSection);
 
 	DECLARE_MESSAGE_MAP()
+	//fff llll hh  ff fff ddd  dd dd cc fffs
 
 	void InitPropList();
 	void SetPropListFont();
