@@ -1,6 +1,7 @@
 
 // TMTest3View.h : interface of the CTMTest3View class
 //
+//new issue
 
 #pragma once
 
