@@ -7,6 +7,8 @@
 #include "Resource.h"
 #include "TMTest3.h"
 //Pre commit
+
+// more dev on develop
 class CClassViewMenuButton : public CMFCToolBarMenuButton
 {
 	friend class CClassView;
