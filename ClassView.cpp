@@ -1,6 +1,7 @@
 //changes for issue 3
 //changing classview but will revert the commit
 //change for issue1234567
+//merge conflict
 #include "stdafx.h"
 #include "MainFrm.h"
 #include "ClassView.h"
