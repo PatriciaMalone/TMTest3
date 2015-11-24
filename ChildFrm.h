@@ -1,7 +1,7 @@
 //Final change for v1.0.0 release
 // ChildFrm.h : interface of the CChildFrame class
 //
-
+//change for issue 147852
 #pragma once
 
 class CChildFrame : public CMDIChildWndEx

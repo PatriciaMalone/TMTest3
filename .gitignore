@@ -3,3 +3,7 @@ Debug
 /*.opensdf
 /*.sdf
 /ipch/tmtest3-a05bf50/*.ipch
+/ClassView.cpp.LOCAL.cpp
+/ClassView.cpp.BASE.cpp
+/ClassView.cpp.REMOTE.cpp
+/TMTest3.aps
