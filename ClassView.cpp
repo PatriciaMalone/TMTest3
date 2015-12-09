@@ -9,7 +9,11 @@
 #include "TMTest3.h"
 //Pre commit
 
+
 // more dev on develop
+
+//change for hot fix
+
 class CClassViewMenuButton : public CMFCToolBarMenuButton
 {
 	friend class CClassView;
