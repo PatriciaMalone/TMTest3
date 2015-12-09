@@ -35,6 +35,7 @@ protected:
 	CMFCPropertyGridCtrl m_wndPropList;
 
 // Implementation
+	//6000
 public:
 	virtual ~CPropertiesWnd();
 
