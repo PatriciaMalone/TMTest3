@@ -1,12 +1,18 @@
 //changes for issue 3
-//Change for issue 5
+//changing classview but will revert the commit
+//change for issue1234567
+//merge conflict
 #include "stdafx.h"
 #include "MainFrm.h"
 #include "ClassView.h"
 #include "Resource.h"
 #include "TMTest3.h"
+//Pre commit
 
-//change for hot fix
+
+// more dev on develop
+
+//change for hot fix 2
 
 class CClassViewMenuButton : public CMFCToolBarMenuButton
 {

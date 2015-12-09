@@ -1,6 +1,7 @@
 //classview change
 #pragma once
 
+//another change
 #include "ViewTree.h"
 
 class CClassToolBar : public CMFCToolBar

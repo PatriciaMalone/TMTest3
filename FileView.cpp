@@ -1,4 +1,5 @@
 // a history
+//A change
 #include "stdafx.h"
 #include "mainfrm.h"
 #include "FileView.h"
@@ -18,9 +19,13 @@ CFileView::CFileView()
 {
 }
 
+//hsdhfjhsdfsd
+
 CFileView::~CFileView()
 {
 }
+
+//Blah 
 
 BEGIN_MESSAGE_MAP(CFileView, CDockablePane)
 	ON_WM_CREATE()

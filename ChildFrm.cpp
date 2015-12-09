@@ -1,6 +1,7 @@
 //change on develop 3
 // ChildFrm.cpp : implementation of the CChildFrame class
 //
+//merge conflict
 
 #include "stdafx.h"
 #include "TMTest3.h"
