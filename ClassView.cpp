@@ -12,7 +12,7 @@
 
 // more dev on develop
 
-//change for hot fix 3
+//change for hot fix 4
 
 class CClassViewMenuButton : public CMFCToolBarMenuButton
 {
