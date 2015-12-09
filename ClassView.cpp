@@ -6,6 +6,8 @@
 #include "Resource.h"
 #include "TMTest3.h"
 
+//change for hot fix
+
 class CClassViewMenuButton : public CMFCToolBarMenuButton
 {
 	friend class CClassView;
