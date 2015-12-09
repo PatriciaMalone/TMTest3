@@ -1,7 +1,8 @@
-
+ 
 // TMTest3.h : main header file for the TMTest3 application
 //
 #pragma once
+// dev continuining changes
 
 #ifndef __AFXWIN_H__
 	#error "include 'stdafx.h' before including this file for PCH"
