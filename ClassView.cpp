@@ -14,7 +14,7 @@
 
 //change for hot fix 4
 
-//Change on dev16.1
+//Change on dev16.1 change change change
 
 class CClassViewMenuButton : public CMFCToolBarMenuButton
 {
