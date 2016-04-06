@@ -2,7 +2,7 @@
 // TMTest3View.h : interface of the CTMTest3View class
 //
 //new issue
-
+// issue 27780 change
 #pragma once
 
 //test 2
