@@ -4,7 +4,7 @@
 //
 //change for issue 147852
 #pragma once
-
+//issue 400
 class CChildFrame : public CMDIChildWndEx
 {
 	DECLARE_DYNCREATE(CChildFrame)
