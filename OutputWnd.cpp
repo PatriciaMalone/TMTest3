@@ -1,5 +1,7 @@
+//Issue 173
 //Issue 07
 //Issue 999
+
 #include "stdafx.h"
 
 #include "OutputWnd.h"
