@@ -1,5 +1,6 @@
 //
 #pragma once
+//Introduced clash
 //hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 /////////////////////////////////////////////////////////////////////////////
 // COutputList window
