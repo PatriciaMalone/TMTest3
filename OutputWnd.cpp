@@ -1,6 +1,8 @@
+//Issue 173
 //Issue clash
 //Issue 07
 //Issue 999
+
 #include "stdafx.h"
 
 #include "OutputWnd.h"
