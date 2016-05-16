@@ -16,7 +16,7 @@ public:
 
 // Operations
 public:
-//O//pubQ
+//O//pubQ  ff
 // Overrides
 	virtual BOOL PreCreateWindow(CREATESTRUCT& cs);
 
