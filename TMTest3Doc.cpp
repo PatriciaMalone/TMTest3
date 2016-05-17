@@ -1,4 +1,4 @@
-//HERE FAC03
+
 // TMTest3Doc.cpp : implementation of the CTMTest3Doc class
 //
 
