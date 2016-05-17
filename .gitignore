@@ -7,3 +7,10 @@ Debug
 /ClassView.cpp.BASE.cpp
 /ClassView.cpp.REMOTE.cpp
 /TMTest3.aps
+/ChildFrm.h.BASE.h
+/ChildFrm.h.LOCAL.h
+/ChildFrm.h.REMOTE.h
+/FileView.cpp.BASE.cpp
+/FileView.cpp.LOCAL.cpp
+/FileView.cpp.REMOTE.cpp
+/ipch/tmtest3-f7f1d37d/tmtest3-160ccc80.ipch
