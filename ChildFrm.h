@@ -5,6 +5,8 @@
 //change for issue 147852
 #pragma once
 //issue 400
+//fdfgdfg
+//hjhjh
 class CChildFrame : public CMDIChildWndEx
 {
 	DECLARE_DYNCREATE(CChildFrame)
@@ -16,7 +18,7 @@ public:
 
 // Operations
 public:
-
+//O//pubQ  ff
 // Overrides
 	virtual BOOL PreCreateWindow(CREATESTRUCT& cs);
 
