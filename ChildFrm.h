@@ -6,6 +6,7 @@
 #pragma once
 //issue 400
 //fdfgdfg
+//hjhjh
 class CChildFrame : public CMDIChildWndEx
 {
 	DECLARE_DYNCREATE(CChildFrame)
