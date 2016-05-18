@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+//Change file fiew
 // a history
 //A change
 #include "stdafx.h"
